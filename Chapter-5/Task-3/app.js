@@ -1,0 +1,12 @@
+var num;
+document.write("value after variable decleration is "+num+"</br>");
+num=5;
+document.write("Initial value: "+num+"</br>");
+num=num+1;
+document.write("value after increment is: "+num+"</br>");
+num=num+7;
+document.write("value after addition is: "+num+"</br>");
+num=num-1;
+document.write("value after decrement: "+num+"</br>");
+num=num%3;
+document.write("The Remainder is: "+num);

@@ -1,0 +1,12 @@
+var value=4;
+document.write("Table of "+value+"</br>");
+document.write("4x1= "+value*1+"</br>");
+document.write("4x2= "+value*2+"</br>");
+document.write("4x3= "+value*3+"</br>");
+document.write("4x4= "+value*4+"</br>");
+document.write("4x5= "+value*5+"</br>");
+document.write("4x6= "+value*6+"</br>");
+document.write("4x7= "+value*7+"</br>");
+document.write("4x8= "+value*8+"</br>");
+document.write("4x9= "+value*9+"</br>");
+document.write("4x10= "+value*10+"");

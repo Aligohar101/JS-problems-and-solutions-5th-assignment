@@ -1,0 +1,10 @@
+document.write("<h1>The lifetime supply calculator</h1>");
+var favt_s="chocolate ship";
+var age=15;
+var max_a=65;
+var s_p_d=3;
+var total=(max_a-age)*s_p_d;
+document.write("favourite snak: "+favt_s+"</br>");
+document.write("Current age: "+age+"</br>");
+document.write("Estimated maximum age: "+max_a+"</br>");
+document.write("you will need "+total+" "+favt_s+" to last you until the rip old age of "+max_a+"</br>");

@@ -1,0 +1,2 @@
+var one_variable="Pizza";
+alert(one_variable+"\n"+one_variable[0]+one_variable[1]+one_variable[2]+one_variable[3]+"\n"+one_variable[0]+one_variable[1]+one_variable[2]+"\n"+one_variable[0]+one_variable[1]+"\n"+one_variable[0]);
